@@ -12,3 +12,4 @@ public class MultihthreadingRunable implements Runnable{
 		}
 	}
 }
+// git bash
