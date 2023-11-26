@@ -26,3 +26,5 @@ public class Inheritance extends MethodType{
 	}
 
 }
+
+// changes for pull request 
